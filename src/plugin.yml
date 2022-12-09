@@ -1,0 +1,6 @@
+name: HeavenMC Alt Shop
+version: 1.0.0 
+main: me.vickrum.alts.Main
+authors: [Vickrum, Jordan]
+description: Server side alts
+depend: [MassiveCore, Citizens, Vault]
